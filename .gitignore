@@ -1,0 +1,28 @@
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.dll
+*.dylib
+*.so
+
+# Precompiled Header
+*.pch
+
+# JUCE related files
+*.juce
+*.jucer
+*.pro
+
+# Backup files
+*~
+
+# Settings files
+*.swp
+*.swo
+
+# .idea folder from IntelliJ
+.idea/
+
+# Build folder
+build/
